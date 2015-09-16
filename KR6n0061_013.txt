@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:04.611674
+#+DATE: 2015-08-30 20:57:10.870008
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1595
 #+PROPERTY: ID KR6n0061
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1595
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0061_T_000-0152a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0061_T_013-0247a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
 ¶
-
- 《攝大乘論釋》卷第十三¶
+《攝大乘論釋》卷第十三¶
 ¶
 世親菩薩釋¶
 陳天竺三藏真諦譯¶
 
-9釋學果寂滅勝相品
-:PROPERTIES:
-:head: 釋學果寂滅勝相第九
-:END:
-¶
+釋學果寂滅勝相第九¶
 
 論曰。如此已說依慧學差別。云何應知寂¶
 滅差別。
@@ -363,11 +358,7 @@
 死。亦不得涅槃。是無得義。菩薩於生死常觀¶
 勝妙寂靜。是無不得義。¶
 
-10釋智差別勝相品
-:PROPERTIES:
-:head: 《攝大乘論釋》釋智差別勝相第十之初
-:END:
-¶
+《攝大乘論釋》釋智差別勝相第十之初初¶
 
 論曰。如此已說寂滅差別。云何應知智差別。¶
 

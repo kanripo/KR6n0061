@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:04.565785
+#+DATE: 2015-08-30 20:57:10.825682
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1595
 #+PROPERTY: ID KR6n0061
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1595
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0061_T_000-0152a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0061_T_012-0238c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
 ¶
-
- 《攝大乘論釋》卷第十二¶
+《攝大乘論釋》卷第十二¶
 ¶
 世親菩薩釋¶
 陳天竺三藏真諦譯¶
 
-8釋依慧學差別勝相品
-:PROPERTIES:
-:head: 釋依慧學差別勝相第八
-:END:
-¶
+釋依慧學差別勝相第八八¶
 
 論曰。如此已說依定學差別。云何應知依慧¶
 學差別。
@@ -534,8 +529,7 @@
 釋曰。未識物類。名之為愚。愚譬次第譬。三義¶
 如前。釋此偈。顯無分別有分別異故有差¶
 別。無言說以無分別為因。由無分別故無言¶
-說。有言說以有分別為因。由有分別故有¶
-言說。愚譬即顯無分別。此三智境。虛實云¶
+說。有言說以有分別為因。由有分別故有言說。愚譬即顯無分別。此三智境。虛實云¶
 何。¶
 
 論曰。¶
