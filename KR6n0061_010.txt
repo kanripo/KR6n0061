@@ -1,33 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:04.489744
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:40
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1595
 #+PROPERTY: ID KR6n0061
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1595
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0061_T_000-0152a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0061_T_010-0221a> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《攝大乘論釋》卷第十¶
+《攝大乘論釋》卷第十¶
 ¶
 世親菩薩釋¶
 陳天竺三藏真諦譯¶
 
-5釋入因果修差別勝相品
-:PROPERTIES:
-:head: 釋入因果修差別勝相第五之一
-:END:
-¶
+* 釋入因果修差別勝相第五〔之一〕－【宋】【元】【宮】之一之一¶
 
-1對治章
-:PROPERTIES:
-:head: 對治章第一
-:END:
-¶
+** 對治章第一¶
 
 釋曰。此義有五章。一對治二立名三得相四¶
 修相五修時。¶
@@ -283,9 +274,9 @@
 　不增減四種
 　自在依止義¶
 　業自在依止
-　總持三摩提
+　總持三摩提」
 #+END_VERSE
-」¶
+¶
 
 如此二偈。依中邊分別論。應當了知。¶
 
@@ -301,11 +292,7 @@
 薩修行十度。通別二行。因此住修別行故。次¶
 第製立十地差別。¶
 
-2立名章
-:PROPERTIES:
-:head: 立名章第二
-:END:
-¶
+** 立名章第二¶
 
 論曰。云何初地名歡喜由始得自他利益功¶
 能故。
@@ -418,11 +405,7 @@
 切福德智慧故。以攝為義。能對治惑流故。以¶
 治為義。¶
 
-3得相章
-:PROPERTIES:
-:head: 得相章第三
-:END:
-¶
+** 得相章第三¶
 
 論曰。云何應知得諸地相。
 
@@ -484,11 +467,7 @@
 一精進心。二大悲心。三善願心。四善行¶
 心。¶
 
-4修相章
-:PROPERTIES:
-:head: 修相章第四
-:END:
-¶
+** 修相章第四¶
 
 論曰。云何應知修諸地相。
 
